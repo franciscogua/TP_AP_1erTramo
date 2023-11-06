@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9db2dda-63d6-4e46-8c50-46383832cbf8" name="Changes" comment="Ultimos detalles de la entrega 2.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b3062d8a-ee8b-4bf3-b5ec-39117e667de3" />
+        <option name="url" value="https://github.com/franciscogua/TPIntegradorE2.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NphGhpUsQmoTVoemNVsaMUgIRS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Users/Francisco/Workspaces/Git/TPIntegradorE2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.g7l" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculadoraTest">
+    <configuration name="default" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.g7l.Calculadora" />
+      <module name="Calculadora" />
+      <option name="PROGRAM_PARAMETERS" value="resultados.csv pronostico.csv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.g7l.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.g7l" />
+      <option name="MAIN_CLASS_NAME" value="edu.g7l.CalculadoraTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.default" />
+      <item itemvalue="JUnit.CalculadoraTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculadoraTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="workspace.xml arreglado">
+      <created>1680358818683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680358818683</updated>
+    </task>
+    <task id="LOCAL-00002" summary="workspace.xml arreglado">
+      <created>1680359090334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680359090334</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Funciona mal (pero funciona)">
+      <created>1680363140887</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680363140887</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cualquier cosa">
+      <created>1680364583861</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680364583861</updated>
+    </task>
+    <task id="LOCAL-00005" summary="cualquier cosa">
+      <created>1680364590435</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680364590435</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cualquier cosa">
+      <created>1680364667974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680364667974</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9db2dda-63d6-4e46-8c50-46383832cbf8" name="Changes" comment="cualquier cosa" />
+      <created>1680366836479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680366836479</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Revisando código">
+      <created>1680367943448</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680367943448</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Agregando Constructores de Lombok vía @Data y @AllArgsConstructor donde corresponde y el programa me lo permite. Funciona correctamente.">
+      <created>1680452723513</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680452723513</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ultimos detalles de la entrega 2.">
+      <created>1681139219067</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681139219067</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ultimos detalles de la entrega 2.">
+      <created>1681139393061</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681139393061</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="workspace.xml arreglado" />
+    <MESSAGE value="Funciona mal (pero funciona)" />
+    <MESSAGE value="cualquier cosa" />
+    <MESSAGE value="Revisando código" />
+    <MESSAGE value="Agregando Constructores de Lombok vía @Data y @AllArgsConstructor donde corresponde y el programa me lo permite. Funciona correctamente." />
+    <MESSAGE value="Nuevo método contarPuntos (suma los puntos de cada persona individual, en vez de una PersonaList). Test exitoso. Actualizo readme con tareas pendientes." />
+    <MESSAGE value="Ultimos detalles de la entrega 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ultimos detalles de la entrega 2." />
+  </component>
+</project>
